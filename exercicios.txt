@@ -1,0 +1,18 @@
+1) Use o código inicial para:
+	a) imprimir no console o valor da variável 'somaDosDoisPrimeirosNumeros'.
+	b) imprimir no console o valor da variável 'somaDoPrimeiroUltimoNumeros'.
+	c) Faça o Array chamado alturas ter 10 números inteiros.
+	d) Altere a conta em 'somaDoPrimeiroUltimoNumeros' para que some o primeiro e o último número.
+	
+2) Crie um programa com um Array de doubles com 10 números. 
+	a) Crie um segundo Array de mesmo tamanho do original e coloque nele o valor que seja o dobro do valor na mesma posição no Array original.
+	b) Calcule a soma de todos os valores do segundo Array e a sua respectiva média.
+	c) Calcule e mostre a quantidade de valores existentes no primeiro Array que são maiores que 50;
+	d) Calcule e mostre a quantidade de valores existentes no primeiro Array que são pares;
+	e) Crie um terceiro Array com o mesmo tamanho que os outros dois e guarde a multiplicação dos valores presentes nas mesmas posições dos dois Arrays já existentes.
+
+3) Crie um programa com um Array de 8 números inteiros
+	a) preencha o Array com zeros e uns;
+	b) considere que o Array inteiro é um número na base 2(binário). transforme o valor em um número decimal. (usar o método "Math.Pow(2,3)" deve ajudar);
+
+https://repl.it/languages/csharp
